@@ -1,5 +1,5 @@
 ## My Test Projects
-In this repository, I showcase projects that I have independently created to enhance my practice in testing web applications
+In this repository, I showcase projects that I have independently created to enhance my practice in testing web applications.
 
 ### [GoIT - QA Marathon]
 > Completing tasks on the platform<br>
