@@ -4,8 +4,11 @@ Start 2023-11-03 / Finish 2023-11-06
 
 ### GoIT - QA Marathon
 ☑️ video lessons
+
 ☑️ practical homework assignments
+
 ☑️ final webinar
+
 ☑️ [Maraton QA](https://qa.m.goit.global/pl/?utm_source=leeloo&utm_medium=ref&utm_campaign=FPL6)
 
 ### Plan for 4 days:
