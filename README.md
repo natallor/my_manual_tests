@@ -1,5 +1,5 @@
 ## My Test Projects
-In this repository, I showcase projects that I have independently created to enhance my practice in testing web applications.
+In this repository, I showcase independently created projects and my involvement in various additional initiatives aimed at enhancing my practice in testing web applications.
 
 ### [GoIT - QA Marathon](https://github.com/natallor/my_test_projects/tree/main/GoIT%20-%20QA%20Marathon)
 > 4 days of training with GoIT<br>
