@@ -1,1 +1,1 @@
-## Project Guru99 Bank
+## Guru99 Banking Project
