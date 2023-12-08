@@ -12,4 +12,8 @@ In this repository, I showcase independently created projects and my involvement
 >The project is to test the Guru99 Bank website<br>
 > The tools I have used:
 
-### [COLT 3/2023 - Practice]()
+### [COLT 3/2023 - Practice](https://github.com/natallor/my_test_projects/tree/main/COLT%203)
+>
+>
+> The tools I have used:<br>
+> Start 2023-11-15 / Finish 2023-12-15
