@@ -16,4 +16,4 @@ In this repository, I showcase independently created projects and my involvement
 >
 >
 > The tools I have used:<br>
-> Start 2023-11-15 / Finish 2024-01-01 (Prolongation)
+> Start 2023-11-15 / Finish 2024-12-31 (Prolongation)
