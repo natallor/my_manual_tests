@@ -37,9 +37,6 @@ The subject of COLT was the Devtool tool and testing tasks related to it.
 ***6. Writing Test Cases:***
 - Understanding how to write effective test cases.
 
-***7. Communication and Team Collaboration:***
-- Working in a team, communicating, and sharing knowledge on online platforms like Slack.
-
 ## ✔️ Practice
 
 
