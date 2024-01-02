@@ -53,15 +53,15 @@ The subject of COLT was the Devtool tool and testing tasks related to it.
 
 -----
 
-<p align="center"><img src="https://github.com/natallor/my_test_projects/assets/132356748/1af13024-413c-45fb-8a08-ae93b4b69142" width="80%" height="20%"></p>
+<p align="center"><img src="https://github.com/natallor/my_test_projects/assets/132356748/cbf32503-3424-47f9-932e-625ee4163433" width="80%" height="20%"></p>
 
 -----
 
-<p align="center"><img src="https://github.com/natallor/my_test_projects/assets/132356748/7392264a-e63b-47aa-ab3d-2c7ee20c0b17" width="80%" height="20%"></p>
+<p align="center"><img src="https://github.com/natallor/my_test_projects/assets/132356748/27d5e283-d08d-4ad4-91e2-07a913bfc613" width="80%" height="20%"></p>
 
 -----
 
-<p align="center"><img src="https://github.com/natallor/my_test_projects/assets/132356748/9ce8c444-af63-4311-8d07-b98aff6fe7ae" width="80%" height="20%"></p>
+<p align="center"><img src="https://github.com/natallor/my_test_projects/assets/132356748/8f7b00d3-f236-4531-a39b-9f61c6daeff5" width="80%" height="20%"></p>
 
 -----
 
