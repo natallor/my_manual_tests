@@ -18,4 +18,4 @@ In this repository, I showcase independently created projects and my involvement
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=%2520flat-squar&logo=Playwright&logoColor=green&labelColor=black&color=blue)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=%2520flat-squar&logo=Visual%20Studio%20Code&logoColor=blue&labelColor=black&color=blue)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=%2520flat-squar&logo=Trello&logoColor=blue&labelColor=black&color=blue)<br>
-> Start 2023-11-15 / Finish 2024-12-31 (Prolongation)
+> Start 2023-11-15 / Finish 2024-01-05 (Prolongation)
