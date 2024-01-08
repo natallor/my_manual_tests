@@ -6,7 +6,7 @@ COLT is a charitable 4-week collaborative testing project organized by <a href="
 
 The subject of COLT was the Devtool tool and testing tasks related to it.
 
-**Start 2023-11-15 / Finish 2024-12-31 (Prolongation)**
+**Start 2023-11-15 / Finish 2024-01-05 (Prolongation)**
 
 ## 📚 Skills Acquired
 
