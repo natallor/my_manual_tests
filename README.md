@@ -11,6 +11,10 @@ In this repository, I showcase independently created projects and my involvement
 ## [Guru99 Bank - Project](https://github.com/natallor/my_test_projects/tree/main/Project%20Guru99%20Bank)
 >The project is to test the Guru99 Bank website<br>
 > The tools I have used:
+> ![Jira](https://img.shields.io/badge/Jira-%230052CC?style=%2520flat-squar&logo=Jira&logoColor=blue&labelColor=black&color=blue)
+   ![TestRail](https://img.shields.io/badge/TestRail-%2365C179?style=%20flat-square&logo=TestRail&logoColor=green&labelColor=black&color=blue)
+>![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=flat&logo=Apache%20JMeter&logoColor=red&labelColor=black&color=blue)
+   
 
 ## [COLT 3/2023 - Practice/Knowledge](https://github.com/natallor/my_test_projects/tree/main/COLT%203)
 > COLT is a charitable 4-week collaborative testing project organized by <a href="http://cherry-it.pl/colt-3-2023/" target="_blank">Cherry IT</a><br>
@@ -19,3 +23,6 @@ In this repository, I showcase independently created projects and my involvement
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=%2520flat-squar&logo=Visual%20Studio%20Code&logoColor=blue&labelColor=black&color=blue)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=%2520flat-squar&logo=Trello&logoColor=blue&labelColor=black&color=blue)<br>
 > Start 2023-11-15 / Finish 2024-01-05 (Prolongation)
+
+
+
