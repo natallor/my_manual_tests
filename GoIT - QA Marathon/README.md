@@ -1,7 +1,7 @@
 # GoIT - QA Marathon
 4 days of training with GoIT: ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=%20flat-square&logo=Jira&logoColor=blue&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TestRail-%2365C179?style=%20flat-square&logo=TestRail&logoColor=green&labelColor=black&color=blue)<br>
-Start 2023-11-03 / Finish 2023-11-06
+**Start 2023-11-03 / Finish 2023-11-06**
 
 ## GoIT - [QA Marathon](https://qa.m.goit.global/pl/?utm_source=leeloo&utm_medium=ref&utm_campaign=FPL6)
 :books: video lessons
