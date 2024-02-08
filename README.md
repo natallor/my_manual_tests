@@ -15,8 +15,8 @@ In this repository, I showcase independently created projects and my involvement
    ![TestRail](https://img.shields.io/badge/TestRail-%2365C179?style=%20flat-square&logo=TestRail&logoColor=green&labelColor=black&color=blue)
 >![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=flat&logo=Apache%20JMeter&logoColor=red&labelColor=black&color=blue)
 [![DataFairy](https://img.shields.io/badge/DataFairy%20-%20%23A1CA03?style=flat&logo=Excel)](https://devskiller.com/datafairy/#/person)
->[![TEMPMAIL](https://img.shields.io/badge/TEMPMAIL%20-%20%23A1CA03?style=flat)](https://temp-mail.org/pl/)
-
+>[![TEMPMAIL](https://img.shields.io/badge/TEMPMAIL%20-%20%23A1CA03?style=flat)](https://temp-mail.org/pl/)<br>
+>Start 2024-01-29 / Finish 2024-02-04
 
 ## [COLT 3/2023 - Practice/Knowledge](https://github.com/natallor/my_test_projects/tree/main/COLT%203)
 > COLT is a charitable 4-week collaborative testing project organized by <a href="http://cherry-it.pl/colt-3-2023/" target="_blank">Cherry IT</a><br>
