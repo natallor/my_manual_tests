@@ -35,7 +35,7 @@ All files have been saved in PDF format.***
 
 -----
 
-### Tools
+### :wrench: Tools
 [![Jira](https://img.shields.io/badge/Jira-%230052CC?style=%2520flat-squar&logo=Jira&logoColor=blue&labelColor=black&color=blue)](https://www.atlassian.com/pl/software/jira) 
 [![TestRail](https://img.shields.io/badge/TestRail-%2365C179?style=%20flat-square&logo=TestRail&logoColor=green&labelColor=black&color=blue)](https://www.testrail.com/) 
 [![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=flat&logo=Apache%20JMeter&logoColor=red&labelColor=black&color=blue)](https://jmeter.apache.org/) 
@@ -44,11 +44,11 @@ All files have been saved in PDF format.***
 
 -----
 
-### Documentation
+### :book: Documentation
 - [Software Requirements Specification 1.3 - 25/10/2013](https://github.com/natallor/my_test_projects/blob/main/Project%20Guru99%20Bank/Software%20Requirements%20Specification%20-%20Guru99%20Banking%20Project.pdf)
 
 -----
 
-### Environment
+### :railway_track: Environment
 - Chrome 118.0.5993.120  (64-bit) <br>
 - Windows 10 Pro
