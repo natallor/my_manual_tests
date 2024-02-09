@@ -41,11 +41,11 @@ All files have been saved in PDF format.***
 
 -----
 ### Tools
-- [![Jira](https://img.shields.io/badge/Jira-%230052CC?style=%2520flat-squar&logo=Jira&logoColor=blue&labelColor=black&color=blue)](https://www.atlassian.com/pl/software/jira) 
-- [![TestRail](https://img.shields.io/badge/TestRail-%2365C179?style=%20flat-square&logo=TestRail&logoColor=green&labelColor=black&color=blue)](https://www.testrail.com/) 
-- [![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=flat&logo=Apache%20JMeter&logoColor=red&labelColor=black&color=blue)](https://jmeter.apache.org/) 
-- [![DataFairy](https://img.shields.io/badge/DataFairy%20-%20%23A1CA03?style=flat&logo=Excel)](https://devskiller.com/datafairy/#/person) 
-- [![TEMPMAIL](https://img.shields.io/badge/TEMPMAIL%20-%20%23A1CA03?style=flat)](https://temp-mail.org/pl/)
+[![Jira](https://img.shields.io/badge/Jira-%230052CC?style=%2520flat-squar&logo=Jira&logoColor=blue&labelColor=black&color=blue)](https://www.atlassian.com/pl/software/jira) 
+[![TestRail](https://img.shields.io/badge/TestRail-%2365C179?style=%20flat-square&logo=TestRail&logoColor=green&labelColor=black&color=blue)](https://www.testrail.com/) 
+[![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=flat&logo=Apache%20JMeter&logoColor=red&labelColor=black&color=blue)](https://jmeter.apache.org/) 
+[![DataFairy](https://img.shields.io/badge/DataFairy%20-%20%23A1CA03?style=flat&logo=Excel)](https://devskiller.com/datafairy/#/person) 
+[![TEMPMAIL](https://img.shields.io/badge/TEMPMAIL%20-%20%23A1CA03?style=flat)](https://temp-mail.org/pl/)
 
 -----
 
